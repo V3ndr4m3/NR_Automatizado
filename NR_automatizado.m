@@ -1,5 +1,7 @@
 clc; clear all; close all
 
+%Desenvolvido por Gustavo Vendrame Barbara
+
 %Determina o número de barras e o tipo de cada barra
 %1: Barra PQ, 2: Barra PV, 3: Barra de referência
 barras = [3 1 1];
